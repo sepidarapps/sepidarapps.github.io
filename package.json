@@ -1,0 +1,21 @@
+{
+  "name": "sepidarapps.com",
+  "version": "0.1.0",
+  "description": "Sepidar Website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sepidarapps/sepidarapps.github.io"
+  },
+  "private": true,
+  "author": "Behrang Noruzi Niya",
+  "homepage": "https://sepidarapps.com",
+  "devDependencies": {
+    "grunt-cli": "~0.1.13",
+    "grunt": "~0.4.3",
+    "grunt-flipcss": "~0.1.2"
+  }
+}
