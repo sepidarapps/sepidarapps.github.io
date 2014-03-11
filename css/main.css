@@ -27,6 +27,7 @@ body {
 
 .marketing {
   font-size: 1.3em;
+  margin-bottom: 10em;
 }
 
 @media (min-width: 768px) {
